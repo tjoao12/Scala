@@ -1,0 +1,7 @@
+var total=2
+var paid=52
+var balance=50
+var change=(paid-bill)
+
+println("your change is" + change)
+
